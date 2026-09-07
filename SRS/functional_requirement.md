@@ -61,7 +61,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 ## FR-4
 
-## Titill: Sjá hvað ég tók síðast
+## Titill: Sjá hvað notandi tók síðast
 
 ## ⚙️ Lýsing
 > Kerfið skal sýna settin, endurtekningarnar og þyngdina úr síðustu æfingu í sömu æfingu, á sama skjá og maður skráir settið.
@@ -74,7 +74,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 ## FR-5
 
-## Titill: Sjá hvenær ég tók æfinguna síðast
+## Titill: Sjá hvenær notandi tók æfinguna síðast
 
 ## ⚙️ Lýsing
 > Kerfið skal sýna dagsetninguna á því hvenær notandi tók æfinguna síðast, við hliðina á gildunum.
@@ -87,7 +87,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 ## FR-6
 
-## Titill: Sjá hvort ég er þyngri en síðast
+## Titill: Sjá hvort settið er þyngra en síðast
 
 ## ⚙️ Lýsing
 > Kerfið skal sýna hvort settið sem verið er að skrá er þyngra, léttara eða það sama og síðast í sömu æfingu.
@@ -191,7 +191,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 ## FR-14
 
-## Titill: Er ég að bæta mig
+## Titill: Sjá hvort notandi er að bæta sig
 
 ## ⚙️ Lýsing
 > Kerfið skal segja hvort þyngdin í æfingu er að hækka, standa í stað eða lækka yfir tímabilið sem er valið.
@@ -230,7 +230,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 ## FR-17
 
-## Titill: Láta vita þegar ég slæ met
+## Titill: Láta vita þegar notandi slær met
 
 ## ⚙️ Lýsing
 > Kerfið skal láta notanda vita um leið og nýskráða settið slær met í æfingunni.
