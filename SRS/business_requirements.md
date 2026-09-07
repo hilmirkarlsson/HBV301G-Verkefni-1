@@ -44,7 +44,7 @@ Notið auðkennið til að vísa í kröfuna úr SRS.md, t.d. business_requireme
 > Innan sex mánaða frá útgáfu á nýjum notendum að fjölga um að minnsta kosti 10% í hverjum mánuði án þess að borgað sé fyrir auglýsingar.
 
 ## 🏢 Viðskiptalegt samhengi
-> Það er gott að halda í notendur en það þarf að hafa notendur til að halda í. Notandi sem slær met (F-3) eða veit loksins hvað hann á að gera í ræktinni (F-2) segir vinum sínum frá því. Ef nýir notendur koma inn án auglýsinga er það sönnun fyrir því að appið er að skila því sem það á að skila.
+> Það er gott að halda í notendur en það þarf að hafa notendur til að halda í. Notandi sem slær met (F-3) eða veit loksins hvað á að gera í ræktinni (F-2) segir vinum sínum frá því. Ef nýir notendur koma inn án auglýsinga er það sönnun fyrir því að appið er að skila því sem það á að skila.
 
 ## 📌 Athugasemdir
 > Tengist F-2, F-3 og BREQ-1.
