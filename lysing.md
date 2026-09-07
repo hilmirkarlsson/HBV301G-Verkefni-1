@@ -1,68 +1,33 @@
-# Svitna — hvað er þetta?
+# Æfingaapp — lýsing
 
-*Stutt kynning fyrir verkefnisfélaga. Skrifað 3. sept. 2026.*
+*Fyrir Verkefni 1 í HBV301G. Nafnið á appinu er óákveðið, við tölum betur um það.*
 
-## Hugmyndin í einni setningu
+## Hvað er þetta?
 
-**Svitna** („að svitna“) er ræktarapp fyrir Ísland: þú mætir í ræktina, smellir einu sinni,
-og hópurinn þinn sér að þú mættir. Það er kjarninn. Restin er ofan á honum.
+Einfalt app fyrir fólk sem lyftir. Þú skráir settin þín á meðan þú æfir, fylgir plani sem segir
+þér hvað á að gera í dag, og sérð hvort þú ert að verða sterkari.
 
-## Þrír hlutar, eitt app
 
-1. **Félagsskapur** — mætingarstimpill, hópar (ræktin þín, liðið þitt), straumur fyrir hópinn og
-   fyrir allt Ísland („hverjir eru að púla núna“). Þú velur hver sér mætinguna: hópurinn, allt
-   Ísland eða bara þú.
-2. **Æfing og matur** — sett skráð með tillögu þjálfarans um næstu þyngd, matardagbók með
-   makró-markmiðum, framfarir, skipting vikunnar.
-3. **GYMBRO** — gervigreindarþjálfari með persónuleika (vísindalegur, gamli skólinn, eða þar á
-   milli), sem þú skírir sjálf/ur. Talar við þig á meðan þú æfir, svarar spurningum, býr til plan.
-   Þetta er áskriftarhlutinn.
+## Þrír eiginleikar
 
-Markmiðið: **fá fólk til að mæta** — hvatning í gegnum sýnileika, ekki hype. Íslenska fyrst,
-fyrir konur og karla jafnt (appið beygir orðin eftir því hvernig þú vilt láta ávarpa þig:
-*mætt* / *mættur*).
+1. **Æfingaskráning** — skrá æfingu, sett, endurtekningar og þyngd á meðan þú ert í ræktinni.
+2. **Æfingaplan** — setja upp vikuna (t.d. PPL eða upper/lower) og sjá hvað er á dagskrá í dag.
+3. **Framfarir** — sjá sögu hverrar æfingar, persónuleg met og hvort þyngdirnar eru að hækka.
 
-## Hvar er þetta statt?
+## Notendastig
 
-- Hönnun valin og teiknuð (stíllinn heitir *Plakat*).
-- Appið er til sem frumgerð: allir skjáir virka í vafra á símastærð, gögn vistast á tækinu.
-- Ekkert netþjónslag enn — Supabase er skipulagt (sjá `supabase/schema.sql`) en ekki tengt.
-- Aldrei keyrt á alvöru síma enn.
+Notendur eru á mismunandi stað og appið þarf að nýtast þeim öllum.
 
-## Tæknin, stutt
+1. **Alveg byrjandi** — hefur aldrei lyft, veit ekkert hvar á að byrja.
+2. **Mætir en veit aldrei hvað hann á að gera** — er kominn í ræktina en ráfar á milli tækja.
+3. **Mætir en sér engar framfarir** — æfir reglulega en þyngdirnar hreyfast ekki og hann veit
+   ekki af hverju.
+4. **Veit alveg hvað hann er að gera** — vill bara geta trackað settin sín, hratt.
 
-- **Expo / React Native** (einn kóði fyrir iOS og Android), TypeScript, Expo Router.
-- **Supabase** (Postgres, auth, storage) þegar það verður tengt — Frankfurt.
-- Kóðinn: `mobile/`. Hönnunin: `design/`. Gagnagrunnur: `supabase/`.
 
-```bash
-cd mobile && pnpm install && pnpm start     # w = vafri, eða Expo Go á símanum
-```
+## Næst
 
-## Tengingin við HBV301G — Verkefni 1: Tegundir krafna og samhengi
-
-Svitna er **kerfið sem við vinnum með í námskeiðinu**, í öllum sex verkefnunum. Verkefni 1 (skil
-7. sept. í Gradescope) biður um:
-
-- **Kröfusöfnun**: hvernig við nálgumst kröfurnar (viðtöl við fólk í ræktinni/liðinu, eigin
-  hugmyndavinna), helstu **notendahópar** (byrjendur, vanir, keppnisfólk; líkamsræktarstöðvar
-  sem kaupendur) og **viðskiptaávinningur** (fleiri mætingar → betri endurkoma fyrir stöðvarnar).
-- **38 kröfur í tilteknum fjölda**: 2 viðskiptakröfur, 1 kerfiskrafa, 3 eiginleikar, 6 notendakröfur
-  (2 á eiginleika), 18 virkniskröfur (3 á notendakröfu), 2 viðskiptareglur, 6 óvirkniskröfur
-  (2 gæðaeiginleikar, 2 takmarkanir, 2 ytri skil). Eiginleikarnir þrír liggja beint við:
-  **mætingin**, **æfingaskráningin**, **þjálfarinn**.
-- **Samhengismynd** (Figure 2-1 í Pohl & Rupp): kerfið og mörk þess, hagsmunaaðilar (notandi,
-  hópurinn, ræktin, App Store/Play, Supabase, úr/heilsuforrit, gervigreindarþjónusta) — og eitt
-  **grátt svæði**: er matvæladagagrunnurinn (Krónan o.fl.) hluti af kerfinu eða samhengi þess?
-- **Verkaskipting og Git**: Kanban-borð á repo-inu, Hvannberg sem collaborator, allir gera commit,
-  push og pull request.
-- **Ígrundun** og **gagnsæisyfirlýsing** um notkun gervigreindar.
-
-Fulla verkefnalýsingin og glósur úr vikum 2–3 eru í Brain-vaultinu:
-`2-Areas/School/Fall 2026/5-Verkfræði kröfugreiningar/Efni/Verkefni/Verkefni 1 - Tegundir krafna og samhengi.md`.
-
-## Hvað næst?
-
-1. Setja Svitna-repo-ið upp sem Kanban og bjóða Hvannberg.
-2. Skrifa kröfurnar 38 saman — byrja á eiginleikunum þremur og notendakröfunum.
-3. Teikna samhengismyndina.
+1. Viðskiptakröfurnar tvær.
+2. Notendakröfur (6) og virkniskröfur (18).
+3. Kerfiskrafa, viðskiptareglur, gæðaeiginleikar, takmarkanir, ytri skil.
+4. Samhengismynd, ígrundun, gagnsæisyfirlýsing.
