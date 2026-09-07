@@ -1,18 +1,20 @@
 # 📦 Verkefni #1 - Tegundir krafna og samhengi 
 
-<!-- Fyllið inn í þessa kafla áður en verkefninu er skilað 
+## Heiti kerfis: Svitna / SETT [vinnuheiti]
+Höfundar: Hilmir Karlsson & Silja Ástudóttir
 
-Heiti kerfis: 
-Höfundar: Nöfn nemenda 
-Stutt lýsing á kerfinu
-Stutt lýsing á innihaldi geymslunnar. 
-    - Lesendur eru viðskiptavinir og kaupendur, notendur, kerfishönnuðir, forritarar og prófarar. Einnig verkefnisstjórar og viðhaldsteymi. 
+## Lýsing á kerfinu
+Einfalt app fyrir fólk sem lyftir. Notendur skrá settin sín á meðan þeir æfa og fylgja plani sem segir þeim hvað á að gera þann daginn. Notendur geta skráð og fylgst með bætingum sínum.
+Kerfið býður upp á örugga gagnageymslu og notendavænt viðmót.
 
-Annars ráðið þið hvernig þið viljið lýsa geymslunni eða ná til lesenda 
--->
+## Geymsla
+Þessi geymsla inniheldur öll skjöl og gögn sem tengjast þróun kerfisins.
+Helstu hlutar eru:
+- SRS - Software Requirement Specifications
+- SDS - System Description Specification 
+- Vinnuferli 
 
 <!-- Nemendur fjarlægi eftirfarandi eða setji sem comment áður en verkefni er skilað 
--->
 
 ## Geymslan er í fjórum hlutum
 - README, þessi skrá
@@ -79,3 +81,4 @@ Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann
 Að lokinni rýni sameinar höfundur PR-ið (**merge**) við `main`.
 
 Ljúktu við aðra þætti verkefnisins eins og SDS og Vinnuferlið með sambærilegum hætti, þ.e. að skipta með ykkur verkum með issues, branches og PR 
+-->
