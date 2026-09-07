@@ -57,7 +57,7 @@ Fyrir þann sem á appið: appið lifir bara ef fólk heldur áfram að nota þa
 ### 3.2 Kerfiskrafa
 | ID                              | Titill                 |
 |---------------------------------|------------------------|
-| [SR-1](system_requirement.md#sr-1) | [Titill á kerfiskröfu] |
+| [SR-1](system_requirement.md#sr-1) | Virkar án nets í ræktinni |
 
 ### 3.3 Eiginleikar (Features)
 | ID                     | Titill                 |
@@ -107,20 +107,20 @@ Fyrir þann sem á appið: appið lifir bara ef fólk heldur áfram að nota þa
 ### 3.7 Gæðaeiginleikar
 | ID                                      | Titill                     |
 |-----------------------------------------|----------------------------|
-| [QA-1](quality_attribute.md#qa-1)       | [Gæðaeiginleiki, titill]   |
-| [QA-2](quality_attribute.md#qa-2)       | [Gæðaeiginleiki, titill]   |
+| [QA-1](quality_attribute.md#qa-1-hröð-skráning) | Hröð skráning |
+| [QA-2](quality_attribute.md#qa-2-persónuvernd) | Persónuvernd |
 
 ### 3.8 Takmarkanir
 | ID                              | Titill                |
 |---------------------------------|-----------------------|
-| [C-1](constraint.md#c-1)        | [Takmörkun, titill]   |
-| [C-2](constraint.md#c-2)        | [Takmörkun, titill]   |
+| [C-1](constraint.md#c-1) | Virkar á iPhone og Android |
+| [C-2](constraint.md#c-2) | Gögnin eru í símanum, enginn server |
 
 ### 3.9 Ytri skil (Interfaces)
 | ID                                      | Titill                |
 |-----------------------------------------|-----------------------|
-| [UI-1](external_interface.md#ui-1)      | [Ytri skil, titill]   |
-| [UI-2](external_interface.md#ui-2)      | [Ytri skil, titill]   |
+| [UI-1](external_interface.md#ui-1) | Skjárinn á símanum |
+| [UI-2](external_interface.md#ui-2) | Síminn sjálfur |
 
 ---
 
