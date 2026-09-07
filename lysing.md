@@ -1,6 +1,6 @@
-# Æfingaapp — lýsing
+# Settið — lýsing
 
-*Fyrir Verkefni 1 í HBV301G. Nafnið á appinu er óákveðið, við tölum betur um það.*
+*Fyrir Verkefni 1 í HBV301G.*
 
 ## Hvað er þetta?
 
