@@ -38,7 +38,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 ## Titill: Muna síðasta sett
 
 ## ⚙️ Lýsing
-> Kerfið skal setja inn sjálfkrafa þyngdina og endurtekningarnar úr síðasta setti í sömu æfingu, svo notandi þurfi bara að breyta ef hann tók eitthvað annað.
+> Kerfið skal setja inn sjálfkrafa þyngdina og endurtekningarnar úr síðasta setti í sömu æfingu, svo notandi þurfi bara að breyta ef eitthvað breyttist.
 
 ## 🧪 Staðfesting
 > Skrá 80 kg í 8. Byrja nýtt sett í sömu æfingu. Það á að standa 80 og 8 í reitunum áður en maður snertir neitt.
@@ -155,7 +155,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 ## Titill: Velja hvað maður kemst oft
 
 ## ⚙️ Lýsing
-> Kerfið skal láta notanda velja hversu marga daga í viku hann kemst og raða planinu á þá daga.
+> Kerfið skal láta notanda velja hversu marga daga í viku er hægt að mæta og raða planinu á þá daga.
 
 ## 🧪 Staðfesting
 > Velja PPL og þrjá daga. Push, pull og legs eiga að fara á sitthvorn daginn. Velja sex daga, hvert tvisvar.
@@ -233,7 +233,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 ## Titill: Láta vita þegar ég slæ met
 
 ## ⚙️ Lýsing
-> Kerfið skal láta notanda vita um leið og settið sem hann var að skrá slær met í æfingunni.
+> Kerfið skal láta notanda vita um leið og nýskráða settið slær met í æfingunni.
 
 ## 🧪 Staðfesting
 > Metið er 100 kg. Skrá 102,5 kg. Það á að koma strax upp að þetta sé nýtt met, ekki seinna.
