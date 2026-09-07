@@ -1,10 +1,10 @@
 # 📦 Verkefni #1 - Tegundir krafna og samhengi 
 
-## Heiti kerfis: Svitna / SETT [vinnuheiti]
+## Heiti kerfis: Settið
 Höfundar: Hilmir Karlsson & Silja Ástudóttir
 
 ## Lýsing á kerfinu
-Einfalt app fyrir fólk sem lyftir. Notendur skrá settin sín á meðan þeir æfa og fylgja plani sem segir þeim hvað á að gera þann daginn. Notendur geta skráð og fylgst með bætingum sínum.
+Settið er einfalt app fyrir fólk sem lyftir. Notendur skrá settin sín á meðan þeir æfa og fylgja plani sem segir þeim hvað á að gera þann daginn. Notendur geta skráð og fylgst með bætingum sínum.
 Kerfið býður upp á örugga gagnageymslu og notendavænt viðmót.
 
 ## Geymsla
